@@ -1,6 +1,6 @@
 # Zeitreihenanalyse_mit_Python
 
-Quellcode zum Praxis-Artikel von Dr. Roland Pleger, erschienen auf Heise+ und im iX-Magazin 03/2023.
+Quellcode zum [Praxis-Artikel](https://www.heise.de/select/ix/2023/3/2224207041417494987) von Dr. Roland Pleger, erschienen auf Heise+ und im [iX-Magazin 03/2023](https://www.heise.de/select/ix/2023/3).
 
 ## iX-tract
 - Zeitreihen heben sich durch Eigenheiten von anderen Daten ab: Sie sind chronologisch geordnet und bestehen aus äquidistanten Zeitpunkten.
